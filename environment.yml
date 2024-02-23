@@ -1,0 +1,6 @@
+pname: cookiecutter-personal
+channels:
+  - conda-forge
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/kabezadezebra/miniforge3/envs/cookiecutter-personal
